@@ -5,7 +5,8 @@ For the blog I will add categories and tags to filter articles and also a custom
 Will add intl for articles in different languages.
 I will also add rss capability and average article read time.
 
-For the tech stack, I am planning to use Nextjs + shadcn + prisma + Mongodb + Cloudinary
+For the tech stack, I am planning to use Nextjs + shadcn + prisma + Mongodb + Cloudinary + NextAuth
 
 TODOS:
-1- [ ] create cms
+1 - [ ] add nextauth
+2 - [ ] create cms
